@@ -26,8 +26,8 @@
                                  // 2 = messages only
         $mail->SMTPAuth = true;   //enable SMTP authentication
       
-        $mail->Username =   "17030434@itcelaya.edu.mx"; // SMTP account username
-        $mail->Password = "masteredu5975";  // SMTP account password
+        $mail->Username =   ""; // SMTP account username
+        $mail->Password = "";  // SMTP account password
          
         $mail->From="";
         $mail->FromName="";
